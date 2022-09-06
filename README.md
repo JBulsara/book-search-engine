@@ -14,6 +14,6 @@
 ## Deployed Application 
 
 [Book Search Engine](https://protected-wildwood-05297.herokuapp.com/)<br />
-![Image](https://github.com/izabelacloud/Book-Search-Engine/blob/master/mern.gif?raw=true)<br />
+
 
 
